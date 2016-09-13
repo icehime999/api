@@ -4,18 +4,18 @@
         {
             "userId": "111111",
             "token": "sdkflskjdflskjflsjflskdjflsjkdflsjf",
-            "userName": “15555555555”,
-            "userType”: “0”,
-            "schoolStage”: “高中”,
-            "schoolYear”: “高三”,
-            “schoolSubject”: “152125188808080088”,
-            "schoolName”: “哈工大附属第一中学”,
+            "userName": "15555555555",
+            "userType": "0",
+            "schoolStage": "高中",
+            "schoolYear": "高三",
+            "schoolSubject": "152125188808080088",
+            "schoolName": "哈工大附属第一中学",
             "schoolId": "222222",
-            “realName”: “张三”,
+            "realName": "张三",
             "telephone": "15555555555",
             "sex": "1",
             "userImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "birthday": “2001-11-04”,
-            “idNumber”: “152125188808080088”
+            "birthday": "2001-11-04",
+            "idNumber": "152125188808080088"
     ]
 }
