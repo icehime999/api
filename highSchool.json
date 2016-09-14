@@ -3,7 +3,7 @@
     "data": [
         {
             "schoolName": "测试高中1",
-            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
             "schoolId": "3111",
             "schoolStage": "高中",
             "lookAmount": "111",
@@ -11,28 +11,28 @@
         },
         {
             "schoolName": "测试高中2",
-            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
             "schoolId": "3222",
             "schoolStage": "高中",
             "lookAmount": "222",
             "vkAmount": "22"
         },{
             "schoolName": "测试高中3",
-            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
             "schoolId": "3333",
             "schoolStage": "高中",
             "lookAmount": "333",
             "vkAmount": "33"
         },{
             "schoolName": "测试高中4",
-            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
             "schoolId": "3444",
             "schoolStage": "高中",
             "lookAmount": "444",
             "vkAmount": "44"
         },{
             "schoolName": "测试高中5",
-            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
             "schoolId": "35555",
             "schoolStage": "高中",
             "lookAmount": "555",
