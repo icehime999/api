@@ -2,44 +2,41 @@
     "result": "1",
     "data": [
         {
-            "schoolName": "哈工大附属高中",
+            "schoolName": "测试高中1",
             "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "411111",
-            "schoolStage": “高中”,
-            “lookAmount”: "33",
-            “vkAmount”: "44"
+            "schoolId": "3111",
+            "schoolStage": "高中",
+            "lookAmount": "111",
+            "vkAmount": "11"
         },
         {
-            "schoolName": "哈工大附属高中",
+            "schoolName": "测试高中2",
             "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "411112",
-            "schoolStage": “高中”,
-            "lookAmount": "33",
-            "vkAmount": "44"
-        },
-        {
-            "schoolName": "哈工大附属高中",
+            "schoolId": "3222",
+            "schoolStage": "高中",
+            "lookAmount": "222",
+            "vkAmount": "22"
+        },{
+            "schoolName": "测试高中3",
             "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "411113",
-            "schoolStage": “高中”,
-            "lookAmount": "33",
-            "vkAmount": "44"
-        },
-        {
-            "schoolName": "哈工大附属高中",
+            "schoolId": "3333",
+            "schoolStage": "高中",
+            "lookAmount": "333",
+            "vkAmount": "33"
+        },{
+            "schoolName": "测试高中4",
             "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "411114",
-            "schoolStage": “高中”,
-            "lookAmount": "33",
+            "schoolId": "3444",
+            "schoolStage": "高中",
+            "lookAmount": "444",
             "vkAmount": "44"
-        },
-        {
-            "schoolName": "哈工大附属高中",
+        },{
+            "schoolName": "测试高中5",
             "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "411115",
-            "schoolStage": “高中”,
-            "lookAmount": "33",
-            "vkAmount": "44"
+            "schoolId": "35555",
+            "schoolStage": "高中",
+            "lookAmount": "555",
+            "vkAmount": "55"
         }
     ]
 }

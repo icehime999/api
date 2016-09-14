@@ -2,39 +2,41 @@
     "result": "1",
     "data": [
         {
-            "primaryName": "哈工大附属小学",
-            "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "211111",
-            "primaryLookNum": "33",
-            "primaryVKNum": "44"
+            "schoolName": "测试小学1",
+            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolId": “1111",
+            "schoolStage": "小学",
+            "lookAmount": "111",
+            "vkAmount": "11"
         },
         {
-            "primaryName": "哈工大附属小学",
-            "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "211112",
-            "primaryLookNum": "33",
-            "primaryVKNum": "44"
-        },
-        {
-            "primaryName": "哈工大附属小学",
-            "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "211113",
-            "primaryLookNum": "33",
-            "primaryVKNum": "44"
-        },
-        {
-            "primaryName": "哈工大附属小学",
-            "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "211114",
-            "primaryLookNum": "33",
-            "primaryVKNum": "44"
-        },
-        {
-            "primaryName": "哈工大附属小学",
-            "primaryImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
-            "schoolId": "211115",
-            "primaryLookNum": "33",
-            "primaryVKNum": "44"
+            "schoolName": "测试小学2",
+            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolId": “1222",
+            "schoolStage": "小学",
+            "lookAmount": "222",
+            "vkAmount": "22"
+        },{
+            "schoolName": "测试小学3",
+            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolId": “1333",
+            "schoolStage": "小学",
+            "lookAmount": "333",
+            "vkAmount": "33"
+        },{
+            "schoolName": "测试小学4",
+            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolId": “1444",
+            "schoolStage": "小学",
+            "lookAmount": "444",
+            "vkAmount": "44"
+        },{
+            "schoolName": "测试小学5",
+            "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
+            "schoolId": “15555",
+            "schoolStage": "小学",
+            "lookAmount": "555",
+            "vkAmount": "55"
         }
     ]
 }
