@@ -4,7 +4,7 @@
         {
             "schoolName": "测试小学1",
             "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
-            "schoolId": “1111",
+            "schoolId": "1111",
             "schoolStage": "小学",
             "clickAmount": "111",
             "vkAmount": "11"
@@ -12,28 +12,28 @@
         {
             "schoolName": "测试小学2",
             "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
-            "schoolId": “1222",
+            "schoolId": "1222",
             "schoolStage": "小学",
             "clickAmount": "222",
             "vkAmount": "22"
         },{
             "schoolName": "测试小学3",
             "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
-            "schoolId": “1333",
+            "schoolId": "1333",
             "schoolStage": "小学",
             "clickAmount": "333",
             "vkAmount": "33"
         },{
             "schoolName": "测试小学4",
             "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
-            "schoolId": “1444",
+            "schoolId": "1444",
             "schoolStage": "小学",
             "clickAmount": "444",
             "vkAmount": "44"
         },{
             "schoolName": "测试小学5",
             "schoolImg": "http://imgsrc.baidu.com/forum/w=580/sign=c1debc194f540923aa696376a258d1dc/2bd5bea1cd11728b0b7fce18cefcc3cec2fd2c8b.jpg",
-            "schoolId": “15555",
+            "schoolId": "15555",
             "schoolStage": "小学",
             "clickAmount": "555",
             "vkAmount": "55"
