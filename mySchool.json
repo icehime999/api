@@ -1,12 +1,12 @@
 {
     "result": "1",
-    "data": [
+    "data": 
         {
             "schoolName": "英语口语改革",
             "schoolImg": "http://img.mp.itc.cn/upload/20160911/9b1d95fed13b4412840599b3e21dfafc_th.jpeg",
             "schoolId": "222222",
-            "lookNum": "55",
-            "VKNum": "566",
+            "lookAmount": "55",
+            "vkAmount": "566",
             "teacherList": [
                 {
                     "teacherName": "范明明",
@@ -40,5 +40,5 @@
                 }
             ]
         }
-    ]
+    
 }
