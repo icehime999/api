@@ -2,7 +2,7 @@
     "result": "1",
     "data": [
         {
-            "knowledgeName": "英语",
+            "schoolSubject": "英语",
             "knowledgeContent": [
                 "完形填空",
                 "单词记忆",
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "knowledgeName": "数学",
+            "schoolSubject": "数学",
             "knowledgeContent": [
                 "线性代数",
                 "导数",
@@ -18,7 +18,7 @@
             ]
         },
         {
-            "knowledgeName": "物理",
+            "schoolSubject": "物理",
             "knowledgeContent": [
                 "电磁学",
                 "量子物理",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "knowledgeName": "语文",
+            "schoolSubject": "语文",
             "knowledgeContent": [
                 "生词结构",
                 "偏旁部首",
