@@ -2,34 +2,24 @@
     "result": "1",
     "data": [
         {
-            "announcementTitle": "英语口语改革",
-            "announcementAuthor": "张三丰",
-            "announcementId": "444441",
-            "announcementTime": "2016-09-15"
+            "announcementTitle": "测试公告标题2",
+            "announcementContent": "测试公告内容1测试公告内容1测试公告内容1测试公告内容1测试公告内容1测试公告内容1测试公告内容1测试公告内容1测试公告内容1",
+            "announcementId": "111"
         },
         {
-            "announcementTitle": "英语口语改革",
-            "announcementAuthor": "张三丰",
-            "announcementId": "444442",
-            "announcementTime": "2016-09-15"
+            "announcementTitle": "测试公告标题2",
+            "announcementContent": "测试公告内容2测试公告内容2测试公告内容2测试公告内容2测试公告内容2测试公告内容2测试公告内容2测试公告内容2测试公告内容2",
+            "announcementId": "222"
         },
         {
-            "announcementTitle": "英语口语改革",
-            "announcementAuthor": "张三丰",
-            "announcementId": "444443",
-            "announcementTime": "2016-09-15"
+            "announcementTitle": "测试公告标题3",
+            "announcementContent": "测试公告内容3测试公告内容3测试公告内容3测试公告内容3测试公告内容3测试公告内容3测试公告内容3测试公告内容3测试公告内容3",
+            "announcementId": "333"
         },
         {
-            "announcementTitle": "英语口语改革",
-            "announcementAuthor": "张三丰",
-            "announcementId": "444444",
-            "announcementTime": "2016-09-15"
-        },
-        {
-            "announcementTitle": "英语口语改革",
-            "announcementAuthor": "张三丰",
-            "announcementId": "444445",
-            "announcementTime": "2016-09-15"
+            "announcementTitle": "测试公告标题4",
+            "announcementContent": "测试公告内容4测试公告内容4测试公告内容4测试公告内容4测试公告内容4测试公告内容4测试公告内容4测试公告内容4测试公告内容4",
+            "announcementId": "444"
         }
     ]
 }
