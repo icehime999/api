@@ -2,22 +2,38 @@
     "result": "1",
     "data": [
         {
-            "knowledgeName": "英语"
+            "knowledgeName": "英语",
+            "knowledgeContent": [
+                "完形填空",
+                "单词记忆",
+                "阅读理解"
+            ]
         },
         {
-            "knowledgeName": "音乐欣赏"
+            "knowledgeName": "数学",
+            "knowledgeContent": [
+                "线性代数",
+                "导数",
+                "微积分"
+            ]
         },
         {
-            "knowledgeName": "地理常识"
+            "knowledgeName": "物理",
+            "knowledgeContent": [
+                "电磁学",
+                "量子物理",
+                "光学导论"
+            ]
         },
         {
-            "knowledgeName": "二次函数"
-        },
-        {
-            "knowledgeName": "语法"
-        },
-        {
-            "knowledgeName": "生词结构"
+            "knowledgeName": "语文",
+            "knowledgeContent": [
+                "生词结构",
+                "偏旁部首",
+                "成语造句",
+                "拼音填空",
+                "改病句"
+            ]
         }
     ]
 }
