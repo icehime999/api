@@ -2,17 +2,17 @@
     "result": "1",
     "data": [
         {
-            "schoolStageName": "全部",
+            "schoolStage": "全部",
             "schoolStageId": "1000",
             "schoolStageContent": [
                 {
-                    "schoolStageName": "全部",
-                    "schoolStageId": "1000"
+                    "schoolYear": "全部",
+                    "schoolYearId": "1000"
                 }
             ]
         },
         {
-            "schoolStageName": "高中",
+            "schoolStage": "高中",
             "schoolStageId": "1300",
             "schoolStageContent": [
                 {
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "schoolStageName": "初中",
+            "schoolStage": "初中",
             "schoolStageId": "1200",
             "schoolStageContent": [
                 {
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "schoolStageName": "小学",
+            "schoolStage": "小学",
             "schoolStageId": "1100",
             "schoolStageContent": [
                 {
